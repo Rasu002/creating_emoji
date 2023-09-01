@@ -1,0 +1,157 @@
+.emoji{
+    margin-left: 15rem;
+    margin-top: 10rem;
+    position:relative;
+}
+
+.emoji_face{
+    height: 15rem;
+    width: 15rem;
+    background-color: rgb(255, 205, 76);
+    border-radius: 50%;
+    position:relative;
+}
+
+.eye_left{
+    height: 3rem;
+    width: 3rem;
+    background-color: pink;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+
+.eyeball_left{
+    height: 1rem;
+    width: 1rem;
+    background-color: black;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: .8rem;
+    margin-top: .9rem;
+
+}
+
+.small_eye_ball_left{
+    height: 0.3rem;
+    width: 0.3rem;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: .3rem;
+    margin-top: .3rem;
+}
+
+.eye_right{
+    height: 3rem;
+    width: 3rem;
+    background-color: pink;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 9rem;
+    margin-top: 3rem;
+}
+
+.eyeball_right{
+    height: 1rem;
+    width: 1rem;
+    background-color: black;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: .8rem;
+    margin-top: .9rem;
+
+}
+
+.small_eye_ball_right{
+    height: 0.3rem;
+    width: 0.3rem;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: .3rem;
+    margin-top: .3rem;
+}
+
+.mouth{
+    height: 3rem;
+    width: 3rem;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 6rem;
+    margin-top: 10rem;
+}
+
+.tongue{
+    height: 1.5rem;
+    width: 1.5rem;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 0.8rem;
+    margin-top: .8rem;
+
+}
+
+.ear_left{
+    height: 3rem;
+    width: 3rem;
+    background-color: burlywood;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: .1rem;
+    margin-top:.1rem;
+}
+
+.ear_right{
+    height: 3rem;
+    width: 3rem;
+    background-color: burlywood;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 11rem;
+    margin-top:.1rem;
+}
+
+.small_ear_left{
+    height: 1rem;
+    width: 1rem;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: .8rem;
+    margin-top: .9rem;
+
+}
+
+.small_ear_right{
+    height: 1rem;
+    width: 1rem;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    margin-left: .8rem;
+    margin-top: .9rem;
+}
+
+.nose{
+    height: 2.7rem;
+    width: .1rem;
+    background-color: rgb(157, 0, 255);
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 7.3rem;
+    margin-top: 6rem;
+
+}
+
